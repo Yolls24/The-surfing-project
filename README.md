@@ -1,2 +1,2 @@
-The surfing projct is a simple website made for a THO woekshop using bootstrap 
-the surfng project is my first personal project
+The surfing project is a simple website made for a THP workshop using bootstrap 
+the surfng project is my first personal projectin THP
